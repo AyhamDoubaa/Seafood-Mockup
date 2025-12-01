@@ -126,7 +126,7 @@ export default function ContactForm() {
             Message Sent!
           </h3>
           <p className="text-ocean-600/70 mb-6">
-            Thank you for reaching out. We'll get back to you within 24 hours.
+            Thank you for reaching out. We&apos;ll get back to you within 24 hours.
           </p>
           
           <button

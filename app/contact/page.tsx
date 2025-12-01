@@ -89,7 +89,7 @@ export default function ContactPage() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-white/70 text-lg max-w-2xl mx-auto"
           >
-            We'd love to hear from you. Reach out with any questions or to plan your visit.
+            We&apos;d love to hear from you. Reach out with any questions or to plan your visit.
           </motion.p>
         </div>
       </section>
@@ -220,7 +220,7 @@ export default function ContactPage() {
                   Send Us a Message
                 </h3>
                 <p className="text-ocean-600/70 mb-8">
-                  Have a question or feedback? Fill out the form below and we'll get back to you 
+                  Have a question or feedback? Fill out the form below and we&apos;ll get back to you 
                   within 24 hours.
                 </p>
 

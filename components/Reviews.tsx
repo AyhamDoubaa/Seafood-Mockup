@@ -107,7 +107,7 @@ export default function Reviews() {
 
                 {/* Quote */}
                 <blockquote className="text-lg md:text-xl text-white/90 text-center leading-relaxed mb-10">
-                  "{reviews[currentIndex].text}"
+                  &quot;{reviews[currentIndex].text}&quot;
                 </blockquote>
 
                 {/* Author */}

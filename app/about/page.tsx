@@ -103,7 +103,7 @@ export default function AboutPage() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-white/70 text-lg leading-relaxed"
           >
-            For over 15 years, OceanCrest has been Marina Bay's premier destination for 
+            For over 15 years, OceanCrest has been Marina Bay&apos;s premier destination for 
             exceptional seafood. Our journey began with a simple passion—to bring the 
             freshest catches from sea to table.
           </motion.p>
@@ -133,7 +133,7 @@ export default function AboutPage() {
                 <p>
                   OceanCrest was born from a dream shared by lifelong friends who grew up on 
                   the shores of Marina Bay. Having witnessed the decline of traditional fishing 
-                  communities, they envisioned a restaurant that would celebrate the ocean's 
+                  communities, they envisioned a restaurant that would celebrate the ocean&apos;s 
                   bounty while supporting sustainable practices.
                 </p>
                 <p>
@@ -145,7 +145,7 @@ export default function AboutPage() {
                 <p>
                   Today, we remain true to our founding principles. Every morning, our team 
                   meets the fishing boats at the dock, selecting only the finest specimens 
-                  for our kitchen. It's this dedication to freshness that sets us apart.
+                  for our kitchen. It&apos;s this dedication to freshness that sets us apart.
                 </p>
               </div>
             </motion.div>
@@ -379,7 +379,7 @@ export default function AboutPage() {
             </h2>
             <p className="text-white/70 max-w-xl mx-auto mb-10 text-lg">
               Join us for an unforgettable dining experience. Reserve your table today and 
-              discover why we've been Marina Bay's favorite for over 15 years.
+              discover why we&apos;ve been Marina Bay&apos;s favorite for over 15 years.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link href="/reservations" className="btn-primary">

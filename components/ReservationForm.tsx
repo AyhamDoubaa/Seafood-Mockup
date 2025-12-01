@@ -173,7 +173,7 @@ export default function ReservationForm() {
             Reservation Confirmed!
           </h3>
           <p className="text-ocean-600/70 mb-6 max-w-md mx-auto">
-            Thank you, {formData.name}! We've received your reservation for{' '}
+            Thank you, {formData.name}! We&apos;ve received your reservation for{' '}
             <span className="font-semibold text-ocean-800">{formData.guests} guests</span> on{' '}
             <span className="font-semibold text-ocean-800">
               {new Date(formData.date).toLocaleDateString('en-US', { 

@@ -63,7 +63,7 @@ export default function AboutPreview() {
                 />
               </div>
               <p className="text-sm text-ocean-700 font-medium">
-                "Every dish tells a story of the sea"
+                &quot;Every dish tells a story of the sea&quot;
               </p>
               <p className="text-xs text-ocean-500 mt-1">— Chef Marcus Rivera</p>
             </motion.div>
@@ -101,7 +101,7 @@ export default function AboutPreview() {
             <p className="text-ocean-700/80 text-lg leading-relaxed mb-6">
               Founded in 2009, OceanCrest has been serving the finest seafood in Marina Bay. 
               Our journey began with a simple belief: that every dish should celebrate the 
-              ocean's bounty while honoring traditional cooking techniques.
+              ocean&apos;s bounty while honoring traditional cooking techniques.
             </p>
             
             <p className="text-ocean-700/70 leading-relaxed mb-10">
